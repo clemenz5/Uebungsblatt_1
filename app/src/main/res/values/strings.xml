@@ -4,4 +4,8 @@
     <string name="insert_button_text">Create List</string>
     <string name="calculate_button_text">Calculate</string>
     <string name="empty_input">Please insert a number</string>
+    <string name="setting_item_calculation_preferences">Calculation Preferences</string>
+    <string name="calculation_preferences_enter_multiplication_factor">Please enter the multiplication factor</string>
+    <string name="multiplication_factor">Multiplication Factor</string>
+
 </resources>

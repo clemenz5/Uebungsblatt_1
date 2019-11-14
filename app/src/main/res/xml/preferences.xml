@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:dialogTitle="@string/multiplication_factor"
+        android:key="multiplication_factor"
+        android:summary="@string/calculation_preferences_enter_multiplication_factor"
+        android:title="@string/multiplication_factor" />
+
+</PreferenceScreen>
