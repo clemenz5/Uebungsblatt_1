@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Uebungsblatt_1</string>
+    <string name="text_hint_placeholder">Input a Number</string>
+    <string name="insert_button_text">Create List</string>
+    <string name="calculate_button_text">Calculate</string>
+    <string name="empty_input">Please insert a number</string>
+</resources>
